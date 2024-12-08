@@ -1,0 +1,14 @@
+station_id,station_name,latitude,longitude,station_abbreviation,datetime,water_level,acqua_alta
+1025,Punta Salute Canal Grande,45.4311,12.3364,PSalute,2024-12-08 17:05:00,0.64,False
+1030,Burano,45.4875,12.415486,Burano,2024-12-08 17:05:00,0.56,False
+1033,Chioggia porto,45.2325,12.280556,Ch_Porto,2024-12-08 17:05:00,0.9,False
+1036,Chioggia Vigo,45.223619,12.280425,Ch_Vigo,2024-12-08 17:05:00,0.91,False
+1023,Diga nord Malamocco,45.334444,12.341389,Mal_DN,2024-12-08 17:05:00,0.82,False
+1024,Diga sud Chioggia,45.22855,12.312767,Ch_DS,2024-12-08 17:05:00,0.82,False
+1022,Diga sud Lido,45.42,12.424,Lido_DS,2024-12-08 17:05:00,0.74,False
+1037,Fusina,45.408889,12.261389,Fusina,2024-12-08 17:05:00,0.77,False
+1028,Laguna nord Saline,45.495556,12.471944,Saline,2024-12-08 17:05:00,0.54,False
+1032,Malamocco Porto,45.339722,12.291944,Mal_Porto,2024-12-08 17:05:00,0.76,False
+1021,Piattaforma Acqua Alta Siap,45.323056,12.514722,Piattaforma,2024-12-08 17:05:00,0.73,False
+1045,Punta Salute Canale Giudecca,45.430556,12.336664,PS_Giud,2024-12-08 17:05:00,0.64,False
+1029,Venezia Misericordia,45.445278,12.336111,Misericordia,2024-12-08 17:05:00,0.69,False

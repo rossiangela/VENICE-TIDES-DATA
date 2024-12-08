@@ -1,0 +1,14 @@
+{
+    "Data Dictionary": {
+        "station_id": "Unique identifier for the tide station",
+        "station_name": "Name of the tide station",
+        "latitude": "Latitude of the tide station",
+        "longitude": "Longitude of the tide station",
+        "station_abbreviation": "Abbreviated name of the tide station",
+        "datetime": "Date and time of the water level measurement",
+        "water_level": "Water level in meters",
+        "acqua_alta": "Flag indicating if the water level was considered an 'acqua alta' event (> 110 cm)"
+    },
+    "Licensing": "This dataset is made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.",
+    "Dataset Creator": "Angela Rossi, Universit\u00e0 degli Study di Udine"
+}
